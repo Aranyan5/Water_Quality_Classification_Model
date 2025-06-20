@@ -1,5 +1,8 @@
 # Water Quality Prediction using Machine Learning
 
+-By Aranyan T
+-SRMIST Trichy
+
 A machine learning pipeline that predicts **Water Quality Index (WQI)** and classifies water samples into quality categories such as *Poor*, *Marginal*, *Fair*, and *Good* using physicochemical parameters. Built for real-world environmental monitoring and sustainability analysis.
 
 ---
